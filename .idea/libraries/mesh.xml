@@ -2,6 +2,7 @@
   <library name="mesh">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/externalfiles/mesh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/externalfiles/quickhull3d.1.4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
